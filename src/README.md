@@ -6,7 +6,7 @@ title: 公子扶苏的博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 公子扶苏的博客主页
 heroFullScreen: true
-tagline: 一个高校新入职的码农
+tagline: 98年高校的教师、程序员
 projects:
   - icon: folder-open
     name: 项目名称
